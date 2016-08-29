@@ -7,4 +7,3 @@ beberapa modul yang terdapat pada sistem ini adalah sebagai berikut :
 - Modul Tracer Study
 - Modul Penjadwalan
 - Modul E-Journal
-- Modul 
