@@ -7,6 +7,8 @@ Smart Hidroponik
 
 * GitHub Repository : https://github.com/kampusubl/smart-hidroponik
 
+Smart hidroponik adalah sistem otomasi untuk tanaman hidroponik yang memudahkan memantau serta memelihara tanaman.
+
 Lumen Robot Friend
 ------------------
 
