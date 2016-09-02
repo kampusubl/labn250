@@ -23,3 +23,7 @@ Smart Parking
 ------------------
 
 * GitHub Repository : https://github.com/kampusubl/smart-parking-area
+
+Traffic Light Revolution
+------------------
+* GitHub Repository : https://github.com/kampusubl/Traffic-Light-Revolution
