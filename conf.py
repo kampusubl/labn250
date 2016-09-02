@@ -47,9 +47,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Crayonpedia'
-copyright = '2016, LSKK'
-author = 'LSKK'
+project = 'Laboratorium N250'
+copyright = '2016, PSTI Universitas Bandar Lampung'
+author = 'PSTI Universitas Bandar Lampung'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
