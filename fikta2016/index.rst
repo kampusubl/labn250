@@ -15,7 +15,7 @@ Nama                                          Role           NIM/NIK            
 Marzuki Syahfirin                             Pembimbing 1                                                                                                                    `Marzuki001 <https://github.com/Marzuki001>`_            
 Agus Sukoco                                   Pembimbing 2                                                                                                                    `agussukoco <https://github.com/agussukoco>`_          
 Ari Kurniawan Saputra                         Pembimbing 3                                                                                                                    `arikurniawans <https://github.com/arikurniawans>`_    
-1                                            Mahasiswa S1                                                                                                                                                                                                                      
+Agus Yuliyanto                                Mahasiswa S1                                                                                                                     `agusyuliyanto12 <https://github.com/agusyuliyanto12>`_                                                                                                 
 2                                             Mahasiswa S1                                                                                                                                                                                                                      
 3                                             Mahasiswa S1                                                                                                                                                                                                                      
 ============================================  =============  ===================  ======================================  ==================================================  ===================================================  ==============================================================  =========================================
@@ -32,9 +32,14 @@ Nama                                          Role           NIM/NIK            
 Marzuki Syahfirin                             Pembimbing 1                                                                                                                    `Marzuki001 <https://github.com/Marzuki001>`_            
 Agus Sukoco                                   Pembimbing 2                                                                                                                    `agussukoco <https://github.com/agussukoco>`_          
 Ari Kurniawan Saputra                         Pembimbing 3                                                                                                                    `arikurniawans <https://github.com/arikurniawans>`_    
-Ade Kurniawan                                 Mahasiswa S1     13421026              ade.curniawan@gmail.com                                                                  `adekurniawan44 <https://github.com/adekurniawan44>`_                                                                                                                                                                                                                
-Agus Yuliyanto                                Mahasiswa S1    `agusyuliyanto12 <https://github.com/agusyuliyanto12>`_                                                                                                                                                                                                                  
-3                                             Mahasiswa S1                                                                                                                                                                                                                       
+Ade Kurniawan                                 Mahasiswa S1                                                                                                                    `adekurniawan44 <https://github.com/adekurniawan44>`_                                       
+Agus Yuliyanto                                Mahasiswa S1    
+                                          `agusyuliyanto12 <https://github.com/agusyuliyanto12>`_                 
+Ramses Parulian Sinaga                        Mahasiswa S1
+                                          `ramsesparulian <https://github.com/ramsesparulian>`_
+joko Wahono                                   Mahasiswa S1
+                                          `jokowahono2 <https://github.com/jokowahono2>`_
+                                          
 ============================================  =============  ===================  ======================================  ==================================================  ===================================================  ==============================================================  =========================================
 
 Cakalang Robo Fish
