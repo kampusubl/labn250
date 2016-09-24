@@ -83,6 +83,7 @@ Ari Kurniawan Saputra                         Pembimbing 3                      
 1 Juli Suprapto                               Mahasiswa S1                                                                           
                                               13421049
                                               juli.13421049@student.ubl.ac.id
+                                              
                                           `JuliSuprapto <https://github.com/JuliSuprapto>`_    
 2                                             Mahasiswa S1                                                                                                                                                                                                                      
 3                                             Mahasiswa S1                                                                                                                                                                                                                      
