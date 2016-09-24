@@ -80,7 +80,10 @@ Nama                                          Role           NIM/NIK            
 Marzuki Syahfirin                             Pembimbing 1                                                                                                                    `Marzuki001 <https://github.com/Marzuki001>`_            
 Agus Sukoco                                   Pembimbing 2                                                                                                                    `agussukoco <https://github.com/agussukoco>`_          
 Ari Kurniawan Saputra                         Pembimbing 3                                                                                                                    `arikurniawans <https://github.com/arikurniawans>`_    
-1                                             Mahasiswa S1                                                                                                                                                                                                                      
+1 Juli Suprapto                               Mahasiswa S1                                                                           
+                                              13421049
+                                              juli.13421049@student.ubl.ac.id
+                                          `JuliSuprapto <https://github.com/JuliSuprapto>`_    
 2                                             Mahasiswa S1                                                                                                                                                                                                                      
 3                                             Mahasiswa S1                                                                                                                                                                                                                      
 ============================================  =============  ===================  ======================================  ==================================================  ===================================================  ==============================================================  =========================================
