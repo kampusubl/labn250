@@ -15,7 +15,7 @@ Nama                                          Role           NIM/NIK            
 Marzuki Syahfirin                             Pembimbing 1                                                                                                                    `Marzuki001 <https://github.com/Marzuki001>`_            
 Agus Sukoco                                   Pembimbing 2                                                                                                                    `agussukoco <https://github.com/agussukoco>`_          
 Ari Kurniawan Saputra                         Pembimbing 3                                                                                                                    `arikurniawans <https://github.com/arikurniawans>`_    
-Agus Yuliyanto                                Mahasiswa S1                                                                                                                     `agusyuliyanto12 <https://github.com/agusyuliyanto12>`_                                                                                                 
+1                                			  Mahasiswa S1                                                                                                                                               
 2                                             Mahasiswa S1                                                                                                                                                                                                                      
 3                                             Mahasiswa S1                                                                                                                                                                                                                      
 ============================================  =============  ===================  ======================================  ==================================================  ===================================================  ==============================================================  =========================================
@@ -33,12 +33,9 @@ Marzuki Syahfirin                             Pembimbing 1                      
 Agus Sukoco                                   Pembimbing 2                                                                                                                    `agussukoco <https://github.com/agussukoco>`_          
 Ari Kurniawan Saputra                         Pembimbing 3                                                                                                                    `arikurniawans <https://github.com/arikurniawans>`_    
 Ade Kurniawan                                 Mahasiswa S1                                                                                                                    `adekurniawan44 <https://github.com/adekurniawan44>`_                                       
-Agus Yuliyanto                                Mahasiswa S1    
-                                          `agusyuliyanto12 <https://github.com/agusyuliyanto12>`_                 
-Ramses Parulian Sinaga                        Mahasiswa S1
-                                          `ramsesparulian <https://github.com/ramsesparulian>`_
-joko Wahono                                   Mahasiswa S1
-                                          `jokowahono2 <https://github.com/jokowahono2>`_
+Agus Yuliyanto                                Mahasiswa S1                     																								  `agusyuliyanto12 <https://github.com/agusyuliyanto12>`_
+Ramses Parulian Sinaga                        Mahasiswa S1																													  `ramsesparulian <https://github.com/ramsesparulian>`_
+joko Wahono                                   Mahasiswa S1																													  `jokowahono2 <https://github.com/jokowahono2>`_
                                           
 ============================================  =============  ===================  ======================================  ==================================================  ===================================================  ==============================================================  =========================================
 
