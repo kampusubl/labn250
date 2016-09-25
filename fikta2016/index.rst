@@ -35,7 +35,7 @@ Ari Kurniawan Saputra                         Pembimbing 3                      
 Ade Kurniawan                                 Mahasiswa S1                                                                                                                    `adekurniawan44 <https://github.com/adekurniawan44>`_                                       
 Agus Yuliyanto                                Mahasiswa S1                     																								  `agusyuliyanto12 <https://github.com/agusyuliyanto12>`_
 Ramses Parulian Sinaga                        Mahasiswa S1																													  `ramsesparulian <https://github.com/ramsesparulian>`_
-											  Mahasiswa S1																													  
+Joko Wahono								      Mahasiswa S1																													  `jokowahono2 <https://github.com/jokowahono2>`_																											  
                                           
 ============================================  =============  ===================  ======================================  ==================================================  ===================================================  ==============================================================  =========================================
 
