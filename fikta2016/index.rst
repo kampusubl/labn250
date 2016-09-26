@@ -39,6 +39,7 @@ Joko Wahono                                   Mahasiswa S1     13421021         
 Rahmat Saputra                                Mahasiswa S1     13421027             rahmatsptr96@gmail.com                                                                      `rahmatsptr <https://github.com/rahmatsptr>`_          
 Jufri yusuf                                   Mahasiswa S1     13421031             jufri.13421031@student.ubl.ac.id                                                            `jufriyusuf <https://github.com/jufriyusuf>`_           
 Novi Yana                                     Mahasiswa S1     13421023             noviyana.13421023@student.ubl.ac.id                                                         `noviyana25 <https://github.com/noviyana25>`_           
+Harits Riswanda B.                            Mahasiswa S1     13421072             harits.13421072@student.ubl.ac.id                                                           `haritsriswanda <https://github.com/haritsriswanda>`_           
 ============================================  ===============  ===================  ======================================  ==================================================  ========================================================  ==============================================================  =========================================
 
 Cakalang Robo Fish
