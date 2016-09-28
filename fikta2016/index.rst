@@ -42,6 +42,7 @@ Rahmat Saputra                                Mahasiswa S1     13421027         
 Jufri yusuf                                   Mahasiswa S1     13421031             jufri.13421031@student.ubl.ac.id                                                            `jufriyusuf <https://github.com/jufriyusuf>`_           
 Novi Yana                                     Mahasiswa S1     13421023             noviyana.13421023@student.ubl.ac.id                                                         `noviyana25 <https://github.com/noviyana25>`_           
 Harits Riswanda B.                            Mahasiswa S1     13421072             harits.13421072@student.ubl.ac.id                                                           `haritsriswanda <https://github.com/haritsriswanda>`_           
+Roy Adi Saputra                               Mahasiswa S1     13421045             roy.13421045@student.ubl.ac.id                                                               `royadisaputra <https://github.com/royadisaputra>`_
 ============================================  ===============  ===================  ======================================  ==================================================  ========================================================  ==============================================================  =========================================
 
 Lumen Sembah Dance
